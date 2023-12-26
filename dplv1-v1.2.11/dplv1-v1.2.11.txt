@@ -1,0 +1,6 @@
+DieselPower Level One, v1.2.11
+
+Implemented in Hitman 2: Silent Assassin, developed by I/O Interactive A/S.
+Shipped since 2003/01/30 with the "AM3D DP Installer for Hitman2.exe" patch provided by AM3D.
+
+Collected by SIGMA/Veryzon <veryzon@sigmaco.org>.

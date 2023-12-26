@@ -1,0 +1,5 @@
+DieselPower Level One, v1.2.8
+
+Implemented in Freedom Fighters, developed by I/O Interactive A/S, and shipped since 2003/07/29.
+
+Collected by SIGMA/Veryzon <veryzon@sigmaco.org>.
